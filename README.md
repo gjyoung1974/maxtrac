@@ -46,10 +46,11 @@ xhost -local:docker
 ```
 
 ## TODO:
-- Add LAB software
-- Add more Radios GM300, etc
+- Add support for Lab software
+- Add support for more Radios GM300, etc
 - Update documentation
 - Cover trunking to conventional conversion
+    -- 900mhz D27Mxxx trunking to conventional, retune, etc
 
 if desired: To modify DOS's AUTOEXEC.bat please see the tail end of the file: dosbox-0.74-3.conf
 
